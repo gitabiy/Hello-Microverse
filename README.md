@@ -198,4 +198,4 @@ I would like to thank Microverse.
 
 This project is [MIT](./LICENSE) licensed.
 
-<p align="right">(<a href="/license">back to top</a>)</p>
+<p align="right">(<a href="/license">MIT</a>)</p>
